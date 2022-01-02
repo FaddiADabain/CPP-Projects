@@ -1,5 +1,5 @@
 #include<iostream>
-#include <string>k
+#include <string>
 using namespace std;
 
 class BinaryTree
